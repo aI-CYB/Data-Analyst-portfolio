@@ -10,18 +10,21 @@ My CV in [pdf](AiymTemirbayeva-CV.pdf).
 This is a repository to showcase skills, projects in Data Analytics / Data Science related topics.
 
 
-- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+## Portfolio Projects
   - Python
     - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
   - SQL
-    - 
-  - Machine Learning
+    - jhjgfghj
+  - Data Science / Machine Learning
     - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
-  - Excel / Google Sheets
     - 
-    - 
+  - Excel
+    -
+    -
   - Power BI
-  
+    -
+    -
+    
 ## Education
 Astana IT University, Astana: 
 Master of Science - MS, Applied Data Analytics,
@@ -33,7 +36,7 @@ Bachelor's degree, Cybersecurity
 
 
 ## Certificates
-The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+The most effective way to demonstrate your skills is by sharing completed work, although certificates can serve as indirect proof of your expertise. Below is a list of the ones I've earned, arranged in reverse-chronological order with the completion dates in brackets:
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
 
 
