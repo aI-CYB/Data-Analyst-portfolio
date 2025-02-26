@@ -16,14 +16,10 @@ This is a repository to showcase skills, projects in Data Analytics / Data Scien
   - SQL
     - jhjgfghj
   - Data Science / Machine Learning
-    - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
-    - 
+    - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis) 
   - Excel
-    -
-    -
   - Power BI
-    -
-    -
+    
     
 ## Education
 Astana IT University, Astana: 
