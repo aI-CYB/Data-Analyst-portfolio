@@ -49,5 +49,4 @@ The most effective way to demonstrate your skills is by sharing completed work, 
 ## Contacts
 - LinkedIn: [@aiymtemirbayeva](https://www.linkedin.com/in/tab18/)
 - Email: aiymtemirbaeva@gmail.com
-- [aiymtemirbaeva@gmail.com](mailto:aiymtemirbaeva@gmail.com)
 - Telegram: [@Bolvtovnv](https://t.me/Bolvtovnv)
