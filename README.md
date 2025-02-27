@@ -33,6 +33,11 @@ Bachelor's degree, Cybersecurity
 
 ## Certificates
 The most effective way to demonstrate your skills is by sharing completed work, although certificates can serve as indirect proof of your expertise. Below is a list of the ones I've earned, arranged in reverse-chronological order with the completion dates in brackets:
+- [Cybersecurity Essentials](https://www.credly.com/badges/2691eebd-c03a-4b74-a109-d8e67b85dfea/public_url)(Jan, 2022) (Cisco Networking Academy) 
+- [CCNAv7: Introduction to Networks](https://www.credly.com/badges/4a119521-f15a-40a2-98d3-7193333e29d2/public_url) (Feb, 2022) (Cisco Networking Academy) 
+- [NDG Linux Essentials](https://www.netacad.com/certificates?issuanceId=78de9c15-d9c2-4398-8f8b-545aaad1587f) (Mar, 2022) (Cisco Networking Academy)
+- [Курс "Основы статистики"](https://stepik.org/cert/2617346) (Oct 2024) (Stepik - Anatoliy Karpov)
+- [Интерактивный тренажер по SQL](https://stepik.org/cert/2590005) (Sep 2024) (Stepik - ДВФУ)
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
 
 
