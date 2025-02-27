@@ -5,7 +5,7 @@ Hi, My name is Aiym! I am an aspiring data analyst with a background in business
 
 My strengths include the ability to work in a team, quick learner and independence in finding solutions.
 
-My CV in russian [pdf](https://drive.google.com/file/d/1Oe_lscuC2SWdq83UpfbFL9BpJFA2--s/view?usp=sharing).
+My CV in russian [pdf](https://drive.google.com/file/d/1Oe_lscuC2SWdq83UpfbFL9BpJFA2_--s/view?usp=sharing).
 My CV in english [pdf]()
 
 This is a repository to showcase skills, projects in Data Analytics / Data Science related topics.
