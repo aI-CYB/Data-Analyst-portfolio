@@ -49,14 +49,24 @@ In this section, I will showcase data analytics projects, providing a brief desc
 
 
 ### DS/Machine Learning
+#### Used Car Price Prediction**  
+  **Code:** [`car price model.ipynb`](https://github.com/aI-CYB/Portfolio-projects/blob/main/car%20price%20model.ipynb)
+  **Pickle file** [`model pickle`](https://github.com/aI-CYB/Portfolio-projects/blob/db35ac84481edcacdc2e391be229aae0f462a846/model.pickle)
+  **Description:** a machine learning pipeline to predict the price of used cars. The project involved data collection, preprocessing, and feature engineering to enhance model performance. Logistic Regression, Random Forest machine learning models were trained and evaluated to identify the most accurate approach. The final results provide insights into key factors influencing car prices.  
+  
+  **Skills:** Data Collection, Data Cleaning, Feature Engineering, Machine Learning, Model Evaluation, Data Visualization  
+  
+  **Technology:** Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Jupyter Notebook,  Logistic Regression, Random Forest, Multilayer perceptron
+
 #### Used Car Price Category Prediction Pipeline**  
   **Code:** [`Airflow-model`](https://github.com/aI-CYB/airflow-model.git)
+  **Puctire:** [`Running Airflow`](https://github.com/aI-CYB/Portfolio-projects/blob/db35ac84481edcacdc2e391be229aae0f462a846/airflow%20car%20price.png)
   
   **Description:** a pipeline model for predicting the price categories of used cars based on various features. The project involved data preprocessing, feature engineering, and model training, followed by deployment using **Apache Airflow** for workflow automation in a **Docker** environment. This pipeline streamlines the prediction process, making it scalable and efficient for real-world applications.
   
-  **Skills**: Data Preprocessing, Feature Engineering, Machine Learning, Logistic Regression, Workflow Automation, Random Forest 
+  **Skills**: Data Preprocessing, Feature Engineering, Machine Learning, Workflow Automation
 
-  **Technology**: Python, Pandas, Scikit-Learn, Apache Airflow, Docker
+  **Technology**: Python, Pandas, Scikit-Learn, Apache Airflow, Docker, Logistic Regression, Random Forest 
   
 
 
