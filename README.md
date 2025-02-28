@@ -18,10 +18,10 @@ This is a repository to showcase skills, projects in Data Analytics / Data Scien
 
 
 ## Table of Contents
-  - [About](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/5535dc23fad9740712de56d726f8f6cacf24657d/README.md#about)
-  - [Portfolio Projects](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/5535dc23fad9740712de56d726f8f6cacf24657d/README.md#portfolio-projects)
-    - [Python](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/5535dc23fad9740712de56d726f8f6cacf24657d/README.md#python)
-      - [Data analysis of СберАвтоподписка website](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/5535dc23fad9740712de56d726f8f6cacf24657d/README.md#data-analysis-of-%D1%81%D0%B1%D0%B5%D1%80%D0%B0%D0%B2%D1%82%D0%BE%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-website)
+  - [About](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#about)
+  - [Portfolio Projects](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#portfolio-projects)
+    - [Python](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#python)
+      - [Data analysis of СберАвтоподписка website](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#data-analysis-of-%D1%81%D0%B1%D0%B5%D1%80%D0%B0%D0%B2%D1%82%D0%BE%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-website)
     - SQL
       - jhjgfghj
     - Data Science / Machine Learning
