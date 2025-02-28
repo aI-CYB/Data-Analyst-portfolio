@@ -52,14 +52,12 @@ In this section, I will showcase data analytics projects, providing a brief desc
 #### Used Car Price Category Prediction Pipeline**  
   **Code:** [`Airflow-model`](https://github.com/aI-CYB/airflow-model.git)
   
-  **Description:** Developed a pipeline model for predicting the price categories of used cars based on various features. The project involved data preprocessing, feature engineering, and model training, followed by deployment using **Apache Airflow** for workflow automation in a **Docker** environment. This pipeline streamlines the prediction process, making it scalable and efficient for real-world applications.
+  **Description:** a pipeline model for predicting the price categories of used cars based on various features. The project involved data preprocessing, feature engineering, and model training, followed by deployment using **Apache Airflow** for workflow automation in a **Docker** environment. This pipeline streamlines the prediction process, making it scalable and efficient for real-world applications.
   
   **Skills**: Data Preprocessing, Feature Engineering, Machine Learning, Logistic Regression, Workflow Automation, Random Forest 
 
   **Technology**: Python, Pandas, Scikit-Learn, Apache Airflow, Docker
   
-
-
 
 
 ### Excel 
