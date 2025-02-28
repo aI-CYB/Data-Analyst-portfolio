@@ -22,14 +22,14 @@ This is a repository to showcase skills, projects in Data Analytics / Data Scien
   - [Portfolio Projects](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#portfolio-projects)
     - [Python](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#python)
       - [Data analysis of СберАвтоподписка website](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#data-analysis-of-%D1%81%D0%B1%D0%B5%D1%80%D0%B0%D0%B2%D1%82%D0%BE%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-website)
-    - SQL
+    - [SQL](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#sql)
       - jhjgfghj
-    - Data Science / Machine Learning
-    - Excel
-    - Power BI
-  - Education
-  - Certificates
-  - Contacts
+    - [DS/Machine Learning](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#DS/machine-learning)
+    - [Excel](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#excel)
+    - [Power BI](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#powerbi)
+  - [Education](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#education)
+  - [Certificates](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#certificates)
+  - [Contacts](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#contacts)
     
 
 ## Portfolio Projects
@@ -45,6 +45,17 @@ In this section, I will showcase data analytics projects, providing a brief desc
   **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
   
 
+### SQL
+
+
+### DS/Machine Learning
+
+
+
+### Excel 
+
+
+### Power BI
 
 
 
