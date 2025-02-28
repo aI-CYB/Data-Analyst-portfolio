@@ -25,8 +25,8 @@ This is a repository to showcase skills, projects in Data Analytics / Data Scien
     - [SQL](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#sql)
       - jhjgfghj
     - [DS/Machine Learning](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#dsmachine-learning)
-      - [Used Car Price Prediction](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#used-car-price-category-prediction)
-      - [Used Car Price Category Prediction Pipeline]()
+      - [Used Car Price Prediction](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#used-car-price-prediction)
+      - [Used Car Price Category Prediction Pipeline](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#used-car-price-category-prediction-pipeline)
     - [Excel](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#excel)
     - [Power BI](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#power-bi)
   - [Education](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#education)
