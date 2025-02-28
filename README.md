@@ -18,10 +18,10 @@ This is a repository to showcase skills, projects in Data Analytics / Data Scien
 
 
 ## Table of Contents
-  - [About](https://github.com/aI-CYB/Data-Analyst-portfolio/edit/main/README.md#about)
-  - [Portfolio Projects](https://github.com/aI-CYB/Data-Analyst-portfolio/edit/main/README.md#portfolio-projects)
+  - [About](https://github.com/aI-CYB/Data-Analyst-portfolio/tree/main#about)
+  - [Portfolio Projects](https://github.com/aI-CYB/Data-Analyst-portfolio/main/README.md#portfolio-projects)
     - Python
-      - [Data analysis of СберАвтоподписка website](https://github.com/aI-CYB/Data-Analyst-portfolio/edit/main/README.md#data-analysis-of-%D1%81%D0%B1%D0%B5%D1%80%D0%B0%D0%B2%D1%82%D0%BE%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-website)
+      - [Data analysis of СберАвтоподписка website](https://github.com/aI-CYB/Data-Analyst-portfolio/main/README.md#data-analysis-of-%D1%81%D0%B1%D0%B5%D1%80%D0%B0%D0%B2%D1%82%D0%BE%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-website)
     - SQL
       - jhjgfghj
     - Data Science / Machine Learning
