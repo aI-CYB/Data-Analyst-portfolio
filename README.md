@@ -24,7 +24,7 @@ This is a repository to showcase skills, projects in Data Analytics / Data Scien
       - [Data analysis of СберАвтоподписка website](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#data-analysis-of-%D1%81%D0%B1%D0%B5%D1%80%D0%B0%D0%B2%D1%82%D0%BE%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-website)
     - [SQL](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#sql)
       - jhjgfghj
-    - [DS/Machine Learning](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#DS/machine-learning)
+    - [DS/Machine Learning](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#dsmachine-learning)
     - [Excel](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#excel)
     - [Power BI](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#power-bi)
   - [Education](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#education)
