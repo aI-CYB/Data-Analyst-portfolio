@@ -26,7 +26,7 @@ This is a repository to showcase skills, projects in Data Analytics / Data Scien
       - jhjgfghj
     - [DS/Machine Learning](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#DS/machine-learning)
     - [Excel](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#excel)
-    - [Power BI](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#powerbi)
+    - [Power BI](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#power-bi)
   - [Education](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#education)
   - [Certificates](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#certificates)
   - [Contacts](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#contacts)
