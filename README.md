@@ -47,6 +47,19 @@ In this section, I will showcase data analytics projects, providing a brief desc
   **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
   
 
+#### Cohort Analysis of Customer Retention  
+**Code:** [`Cohort_analysis.ipynb`](https://github.com/aI-CYB/Portfolio-projects/blob/5bb11a6ca87ad8cfb3ba6b4efb87d7ca95accce6/Cohort_analysis.ipynb)
+
+**Dataset:** [`Когортный анализ.xlsx`](https://github.com/aI-CYB/Portfolio-projects/blob/5bb11a6ca87ad8cfb3ba6b4efb87d7ca95accce6/%D0%9A%D0%BE%D0%B3%D0%BE%D1%80%D1%82%D0%BD%D1%8B%D0%B8%CC%86%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7.xlsx)
+
+**Description:**  Cohort analysis to assess customer retention based on purchasing behavior. The project involved pre-processing the data, handling missing values and building two cohort analyses: one based on the number of unique customers and one based on total purchases. 
+
+**Skills:** Data Cleaning, Cohort Analysis, Customer Retention Analysis, Data Visualization, Business Analytics, Anomaly Detection  
+
+**Technology:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+
+
+
 ### SQL
 
 
