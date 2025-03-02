@@ -23,6 +23,7 @@ This is a repository to showcase skills, projects in Data Analytics / Data Scien
     - [Python](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#python)
       - [Data analysis of СберАвтоподписка website](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#data-analysis-of-%D1%81%D0%B1%D0%B5%D1%80%D0%B0%D0%B2%D1%82%D0%BE%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-website)
       - [Cohort Analysis of Customer Retention](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#cohort-analysis-of-customer-retention)
+      - [Analyzing a marketing campaign for a sporting goods store](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#analyzing-a-marketing-campaign-for-a-sporting-goods-store)
     - [SQL](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#sql)
       - jhjgfghj
     - [DS/Machine Learning](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#dsmachine-learning)
@@ -59,6 +60,19 @@ In this section, I will showcase data analytics projects, providing a brief desc
 
 **Technology:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 
+
+#### Analyzing a marketing campaign for a sporting goods store
+**Code:** [`Analyzing a marketing campaign for a sporting goods store.ipynb`](https://github.com/aI-CYB/Portfolio-projects/blob/4a6634d746189c8a1ca6be89176713e5e805d6dd/Analyzing%20a%20marketing%20campaign%20for%20a%20sporting%20goods%20store.ipynb)
+
+**Dataset:** [`input_data.zip`](https://github.com/aI-CYB/Portfolio-projects/blob/4a6634d746189c8a1ca6be89176713e5e805d6dd/input_data.zip)
+
+**Report:** [`Project-report.pdf`](https://github.com/aI-CYB/Portfolio-projects/blob/f6fe54a20c4f2428bc39fd6bed1419805bca41ab/Project-report.pdf)
+
+**Description:** In-depth analysis of customer purchase data and socio-demographic characteristics to evaluate the effectiveness of previous marketing campaigns. The project involved data preprocessing, handling missing values, A/B testing, customer segmentation, and predictive modeling to improve sales strategies. 
+
+**Skills:** Data preprocessing, SQL, A/B testing, statistical analysis, binary classification, customer segmentation, machine larning, predictive modeling, business analytics, data visualization
+
+**Technology:** Python, pandas, numPy, scikit-learn, matplotlib, seaborn, SQL (SQLite), jupyter notebook, clustergram, scipy
 
 
 ### SQL
