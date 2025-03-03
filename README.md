@@ -34,7 +34,7 @@ This is a repository to showcase skills, projects in Data Analytics / Data Scien
       - [Sales Performance Analysis](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#sales-performance-analysis)
     - Power BI
     - A/B test
-      - [Analysis of A/B-testing results for optimization of pricing in travel insurance](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#analysis-of-a/b-testing-results-for-optimization-of-pricing-in-travel-insurance)
+      - [Analysis of A/B-testing results for optimization of pricing in travel insurance](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#analysis-of-ab-testing-results-for-optimization-of-pricing-in-travel-insurance)
   - [Education](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#education)
   - [Certificates](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#certificates)
   - [Contacts](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#contacts)
