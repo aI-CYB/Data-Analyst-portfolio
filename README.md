@@ -30,6 +30,7 @@ This is a repository to showcase skills, projects in Data Analytics / Data Scien
       - [Used Car Price Prediction](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#used-car-price-prediction)
       - [Used Car Price Category Prediction Pipeline](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#used-car-price-category-prediction-pipeline)
     - [Excel](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#excel)
+      - [Sales Performance Analysis](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#sales-performance-analysis)
     - [Power BI](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#power-bi)
   - [Education](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#education)
   - [Certificates](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#certificates)
@@ -104,6 +105,13 @@ In this section, I will showcase data analytics projects, providing a brief desc
 
 
 ### Excel 
+#### Sales Performance Analysis  
+**Code:** [`Sales Performance Analysis.xlsx`](https://github.com/aI-CYB/Portfolio-projects/blob/e152254f8359f1c85cb88cb2ce68e4827b6ef4df/Sales%20Performance%20Analysis.xlsx)
+**Description:** sales analysis for the "Green" brand in the FMCG canned goods market using Excel. The project include data cleaning and processing, market performance evaluation, assessed sales trends across hypermarkets, supermarkets, and minimarkets over the past three years, hypothesis testing, data visualization and reporting.
+
+**Skills:** sales analysis, data visualization, hypothesis testing
+
+**Technology:** Microsoft Excel, pivot tables, power query, data visualization
 
 
 ### Power BI
