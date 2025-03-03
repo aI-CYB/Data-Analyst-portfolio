@@ -34,7 +34,7 @@ This is a repository to showcase skills, projects in Data Analytics / Data Scien
       - [Sales Performance Analysis](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#sales-performance-analysis)
     - Power BI
     - A/B test
-      - 
+      - [Analysis of A/B-testing results for optimization of pricing in travel insurance](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#analysis-of-a/b-testing-results-for-optimization-of-pricing-in-travel-insurance)
   - [Education](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#education)
   - [Certificates](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#certificates)
   - [Contacts](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#contacts)
@@ -143,6 +143,18 @@ In this section, I will showcase data analytics projects, providing a brief desc
 
 
 ### Power BI
+
+
+
+### A/B test
+#### Analysis of A/B-testing results for optimization of pricing in travel insurance
+**Code:** [`ab-test-analysis.ipynb`](https://github.com/aI-CYB/Portfolio-projects/blob/e251bd8ce60778b5341c0f7708d9bee8860bf154/ab-test-analysis.ipynb)
+
+**Description:** analyzing the results of an A/B test to compare two pricing strategies for travel insurance policies: a traditional risk assessment approach and a data-driven approach using customer segmentation (clustering). The project included: statistically analyzing the test results using t-tests to compare key metrics, evaluating the impact of each pricing approach on business profitability and customer engagement, and providing a data-driven recommendation to adopt a new pricing model or retain the traditional approach.
+
+**Skills:** statistical analysis (t-test), data cleaning, conversion rate analysis, loss rate estimation, hypothesis testing
+
+**Technology:** Pandas, NumPy, SciPy, Statsmodels
 
 
 
