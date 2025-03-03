@@ -20,18 +20,21 @@ This is a repository to showcase skills, projects in Data Analytics / Data Scien
 ## Table of Contents
   - [About](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#about)
   - [Portfolio Projects](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#portfolio-projects)
-    - [Python](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#python)
+    - Python
       - [Data analysis of СберАвтоподписка website](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#data-analysis-of-%D1%81%D0%B1%D0%B5%D1%80%D0%B0%D0%B2%D1%82%D0%BE%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-website)
       - [Cohort Analysis of Customer Retention](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#cohort-analysis-of-customer-retention)
       - [Analyzing a marketing campaign for a sporting goods store](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#analyzing-a-marketing-campaign-for-a-sporting-goods-store)
-    - [SQL](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#sql)
+      - []()
+    - SQL
       - jhjgfghj
-    - [DS/Machine Learning](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#dsmachine-learning)
+    - DS/Machine Learning
       - [Used Car Price Prediction](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#used-car-price-prediction)
       - [Used Car Price Category Prediction Pipeline](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#used-car-price-category-prediction-pipeline)
-    - [Excel](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#excel)
+    - Excel
       - [Sales Performance Analysis](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#sales-performance-analysis)
-    - [Power BI](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#power-bi)
+    - Power BI
+    - A/B test
+      - 
   - [Education](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#education)
   - [Certificates](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#certificates)
   - [Contacts](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#contacts)
