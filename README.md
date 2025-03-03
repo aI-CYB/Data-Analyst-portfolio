@@ -24,9 +24,9 @@ This is a repository to showcase skills, projects in Data Analytics / Data Scien
       - [Data analysis of СберАвтоподписка website](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#data-analysis-of-%D1%81%D0%B1%D0%B5%D1%80%D0%B0%D0%B2%D1%82%D0%BE%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B0-website)
       - [Cohort Analysis of Customer Retention](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#cohort-analysis-of-customer-retention)
       - [Analyzing a marketing campaign for a sporting goods store](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#analyzing-a-marketing-campaign-for-a-sporting-goods-store)
-      - []()
+      - [Marketing Funnel Analysis for an Online Cinema](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#marketing-funnel-analysis-for-an-online-cinema)
     - SQL
-      - jhjgfghj
+      - [Data Analysis of an Online Grocery Delivery Service](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#data-analysis-of-an-online-grocery-delivery-service)
     - DS/Machine Learning
       - [Used Car Price Prediction](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#used-car-price-prediction)
       - [Used Car Price Category Prediction Pipeline](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#used-car-price-category-prediction-pipeline)
@@ -60,9 +60,9 @@ In this section, I will showcase data analytics projects, providing a brief desc
 
 **Description:**  Cohort analysis to assess customer retention based on purchasing behavior. The project involved pre-processing the data, handling missing values and building two cohort analyses: one based on the number of unique customers and one based on total purchases. 
 
-**Skills:** Data Cleaning, Cohort Analysis, Customer Retention Analysis, Data Visualization, Business Analytics, Anomaly Detection  
+**Skills:** Data Cleaning, Cohort Analysis, Customer Retention Analysis, Data Visualization, Business Analytics, Anomaly Detection.  
 
-**Technology:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+**Technology:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook.
 
 
 #### Analyzing a marketing campaign for a sporting goods store
@@ -74,12 +74,37 @@ In this section, I will showcase data analytics projects, providing a brief desc
 
 **Description:** In-depth analysis of customer purchase data and socio-demographic characteristics to evaluate the effectiveness of previous marketing campaigns. The project involved data preprocessing, handling missing values, A/B testing, customer segmentation, and predictive modeling to improve sales strategies. 
 
-**Skills:** Data preprocessing, SQL, A/B testing, statistical analysis, binary classification, customer segmentation, machine larning, predictive modeling, business analytics, data visualization
+**Skills:** Data preprocessing, SQL, A/B testing, statistical analysis, binary classification, customer segmentation, machine larning, predictive modeling, business analytics, data visualization.
 
-**Technology:** Python, pandas, numPy, scikit-learn, matplotlib, seaborn, SQL (SQLite), jupyter notebook, clustergram, scipy
+**Technology:** Python, pandas, numPy, scikit-learn, matplotlib, seaborn, SQL (SQLite), jupyter notebook, clustergram, scipy.
+
+
+#### Marketing Funnel Analysis for an Online Cinema
+
+**Code:** [`Marketing_Funnel_Analysis_for_an_Online_Cinema.ipynb`](https://github.com/aI-CYB/Portfolio-projects/blob/0b5ebb06d2e85b210fa8f2f14cef4c4c5a2cd888/Marketing_Funnel_Analysis_for_an_Online_Cinema.ipynb)
+
+**Dataset:** [`Dataset online cinema.zip`](https://github.com/aI-CYB/Portfolio-projects/blob/0b5ebb06d2e85b210fa8f2f14cef4c4c5a2cd888/Dataset%20online%20cinema.zip)
+
+**Description:** detailed analysis of the online cinema marketing funnel to evaluate the effectiveness of various advertising campaigns. The project includes data cleaning and checking for data falsification, marketing funnel analysis, advertising channels evaluation, correlation analysis, visualizations, business recommendations.
+
+**Skills:** Marketing analytics, funnel conversion analysis, data cleaning, data visualization, finding falsified data.
+
+**Technology:** Python, pandas, numPy, scikit-learn, matplotlib, seaborn, json, jupyter notebook, factor analyzer, scipy.
+
+
 
 
 ### SQL
+#### Data Analysis of an Online Grocery Delivery Service
+**Code:** [`analysis orders.sql`](https://github.com/aI-CYB/Portfolio-projects/blob/044738af7074ea0dae819e11163bca110f563111/analysis%20orders.sql)
+
+**Database model:** [`BD model.png`](https://github.com/aI-CYB/Portfolio-projects/blob/044738af7074ea0dae819e11163bca110f563111/BD%20model.png)
+    
+**Description:** SQL-based analysis of an online grocery delivery service to extract key business insights. The project involved analyzing customer orders, delivery trends, user behavior, and product popularity.
+  
+**Skills:** aggregations and grouping (GROUP BY, COUNT(), SUM()), joins and subqueries, CTEs, window functions and ranking (RANK() OVER()).
+
+**Technology:** SQL, MySQL, DBever.
 
 
 ### DS/Machine Learning
