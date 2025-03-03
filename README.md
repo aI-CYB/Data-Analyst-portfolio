@@ -11,8 +11,8 @@ Already well versed in Python, pandas library and SQL, and currently looking to 
 
 My strengths include the ability to work in a team, quick learner and independence in finding solutions.
 
-My CV in russian [pdf](https://drive.google.com/file/d/1Oe_lscuC2SWdq83UpfbFL9BpJFA2_--s/view?usp=sharing).
-My CV in english [pdf]()
+My CV in russian [pdf](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/070cd95a8f1380ad4994f5aff9212927d761be11/2%D1%81%D1%82%D1%80%20%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20.docx.pdf).
+My CV in english [pdf](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/070cd95a8f1380ad4994f5aff9212927d761be11/2p%20%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20english.docx.pdf)
 
 This is a repository to showcase skills, projects in Data Analytics / Data Science related topics.
 
