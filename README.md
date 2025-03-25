@@ -146,6 +146,7 @@ In this section, I will showcase data analytics projects, providing a brief desc
 
 
 
+
 ### A/B test
 #### Analysis of A/B-testing results for optimization of pricing in travel insurance
 **Code:** [`ab-test-analysis.ipynb`](https://github.com/aI-CYB/Portfolio-projects/blob/e251bd8ce60778b5341c0f7708d9bee8860bf154/ab-test-analysis.ipynb)
@@ -180,6 +181,8 @@ The most effective way to demonstrate your skills is by sharing completed work, 
 - [Курс "Основы статистики"](https://stepik.org/cert/2617346) (Oct 2024) (Stepik - Anatoliy Karpov)
 - [Курс "Введение в Data Science"]() (Nov, 2024) (Skillbox)
 - [Курс "Data Analyst. Junior"](https://drive.google.com/file/d/1-hnhRrbGaezEYvQihwKnR-cc8y3c_VoL/view?usp=sharing) (Feb, 2025) (Skillbox)
+- [Курс "BI Analytics"](https://drive.google.com/file/d/18sKmoeFqf8WcjMm5ut8GK55CEvyM-upM/view?usp=sharing) (March, 2025) (Skillbox)
+- [Профессия Data Analyst](https://drive.google.com/file/d/10rKCoUCTYub1dILXZkZ6baIhKbBjnDhg/view?usp=sharing)(March, 2025) (Skillbox)
 
 
 
