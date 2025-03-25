@@ -143,8 +143,11 @@ In this section, I will showcase data analytics projects, providing a brief desc
 
 
 ### Power BI
-
-
+#### Sales and conversion analysis
+**Code:**[`Conversion and sales analysis.pbix`](https://github.com/aI-CYB/Portfolio-projects/blob/6a243c4ba3484091e62adee8457cbcfe96009d7b/Conversion%20and%20sales%20analysis.pbix)
+**Description:** Built a Power BI dashboard for a car dealership to analyze online marketing effectiveness, conversion, and profitability of BMW and Mercedes sales. 
+**Skills:** data analysis, data visualization, data cleaning.
+**Technology:** DAX, PowerBI, PowerQuery.
 
 
 ### A/B test
