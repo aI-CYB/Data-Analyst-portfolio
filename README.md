@@ -136,6 +136,7 @@ In this section, I will showcase data analytics projects, providing a brief desc
 ### Excel 
 #### Sales Performance Analysis  
 **Code:** [`Sales Performance Analysis.xlsx`](https://github.com/aI-CYB/Portfolio-projects/blob/e152254f8359f1c85cb88cb2ce68e4827b6ef4df/Sales%20Performance%20Analysis.xlsx)
+
 **Description:** sales analysis for the "Green" brand in the FMCG canned goods market using Excel. The project include data cleaning and processing, market performance evaluation, assessed sales trends across hypermarkets, supermarkets, and minimarkets over the past three years, hypothesis testing, data visualization and reporting.
 
 **Skills:** sales analysis, data visualization, hypothesis testing
@@ -146,8 +147,11 @@ In this section, I will showcase data analytics projects, providing a brief desc
 ### Power BI
 #### Sales and conversion analysis
 **Code:**[`Conversion and sales analysis.pbix`](https://github.com/aI-CYB/Portfolio-projects/blob/6a243c4ba3484091e62adee8457cbcfe96009d7b/Conversion%20and%20sales%20analysis.pbix)
+
 **Description:** Built a Power BI dashboard for a car dealership to analyze online marketing effectiveness, conversion, and profitability of BMW and Mercedes sales. 
+
 **Skills:** data analysis, data visualization, data cleaning.
+
 **Technology:** DAX, PowerBI, PowerQuery.
 
 
