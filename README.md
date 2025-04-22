@@ -33,6 +33,7 @@ This is a repository to showcase skills, projects in Data Analytics / Data Scien
     - Excel
       - [Sales Performance Analysis](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#sales-performance-analysis)
     - Power BI
+      - [Sales and conversion analysis](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#sales-and-conversion-analysis)
     - A/B test
       - [Analysis of A/B-testing results for optimization of pricing in travel insurance](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#analysis-of-ab-testing-results-for-optimization-of-pricing-in-travel-insurance)
   - [Education](https://github.com/aI-CYB/Data-Analyst-portfolio/blob/main/README.md#education)
